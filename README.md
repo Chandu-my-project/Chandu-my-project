@@ -1,7 +1,7 @@
-<div align="center" style="background-color: #0D1B2A; color: #E0FBFC; padding: 30px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);">
+<div align="center" style="background-color: black; color: #E0FBFC; padding: 30px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);">
   
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Chandu-my-project/Chandu-my-project/main/asset/HELLO%20WORLD%20girl.gif" alt="Hello World Waving GIF" width="180" height="180" style="border-radius: 50%; border: 5px solid #A0C4FF;"/>
+    <img src="https://raw.githubusercontent.com/Chandu-my-project/Chandu-my-project/main/asset/HELLO%20WORLD%20girl.gif" alt="Hello World Waving GIF" width="auto" height="180" style="border-radius: 50%; border: 5px solid #A0C4FF;"/>
     <h1 style="border-bottom: 2px solid #A0C4FF; padding-bottom: 18px; color: #A0C4FF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5em;">Hi there! I'm Chandrika S 👋</h1>
   </div>
 
@@ -10,8 +10,8 @@
   <h3 style="color: #E0FBFC; font-size: 1.6em; margin-top: 30px;">👩‍💻 The Bio: Engineer by Day, Creative Developer at Heart</h3>
 
   <p style="font-size: 1.1em; line-height: 1.6;">
-    I’m a **Software Engineer** specializing in full-stack development and platform stability, currently based in Bangalore. My professional focus at **Pine Labs** involves deep-diving into issues, debugging complex services, and ensuring massive platforms run flawlessly. 
-    I channel that same meticulous energy into my personal projects, building scalable applications using **Node.js, Python, and React**—obsessed with bringing ideas to life!
+    I’m a **Software Engineer** specializing in full-stack development and platform stability, currently based in Bangalore. My professional focus at **Pine Labs** involves deep-diving into issues, debugging complex services, and ensuring massive platforms run smoothly 
+    I channel that same energy into my personal projects, building scalable applications using **Node.js, Python, and React**—obsessed with bringing ideas to life!
   </p>
 
   ***
@@ -19,7 +19,7 @@
   <h3 style="color: #A0C4FF; font-size: 1.6em; margin-top: 30px;">🛠️ Technology Stack & Skills</h3>
   
   <div align="center" style="margin-bottom: 25px;">
-    <img src="https://raw.githubusercontent.com/Chandu-my-project/Chandu-my-project/main/asset/same%20charater%20typing%20with%20skills.gif" alt="Typing with Skills GIF" width="120" style="margin-bottom: 15px; border-radius: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/Chandu-my-project/Chandu-my-project/main/asset/same%20charater%20typing%20with%20skills.gif" alt="Typing with Skills GIF" width="auto" height="250px" style="margin-bottom: 15px; border-radius: 10px;"/> 
   </div>
 
   <p align="center">
