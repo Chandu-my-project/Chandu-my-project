@@ -21,12 +21,12 @@ I channel that same energy into personal projects — building web applications 
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/Chandu-my-project/Chandu-my-project/main/assset/same%20charater%20typing%20with%20skills.gif" 
+    src="https://raw.githubusercontent.com/Chandu-my-project/Chandu-my-project/main/assset/skills.gif" 
     alt="Typing with Skills GIF" 
-    height="230" 
+    height="280" 
   />
 </div>
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
