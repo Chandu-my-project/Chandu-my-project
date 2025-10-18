@@ -45,8 +45,8 @@ I channel that same energy into personal projects — building web applications 
 
 | **Project** | **Description** | **Link** |
 | :--- | :--- | :--- |
-| **Degree Compass (Django/NLP)** | A web app using **NLP** and ML to provide real-time UG program recommendations. | [Repo Link](https://github.com/Chandu-my-project/django-repository) |
-| **CineSense (Python/NLP)** | Python/NLP sentiment analysis tool for movie reviews, generating emotional and genre insights. | [Repo Link](https://github.com/Chandu-my-project/ML_repository) |
+| **Degree Compass (Django/NLP)** | A web app using **NLP** and **ML** to provide real-time UG program recommendations. | [Repo Link](https://github.com/Chandu-my-project/django-repository) |
+| **CineSense (Python/NLP)** | **Python/NLP** sentiment analysis tool for movie reviews, generating emotional and genre insights. | [Repo Link](https://github.com/Chandu-my-project/ML_repository) |
 | **Blog App (Node.js/EJS)** | A platform for users to create, view, edit, and delete blog posts with a smooth UI/UX focus. | [Repo Link](https://github.com/Chandu-my-project/art_blog) |
 | **Want to see more?** | **Check out my full project portfolio here!** | [Portfolio](https://chandumaportfolio.netlify.app) |
 
