@@ -21,7 +21,7 @@ I channel that same energy into personal projects — building web applications 
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/Chandu-my-project/Chandu-my-project/main/assset/skills.gif" 
+    src="https://raw.githubusercontent.com/Chandu-my-project/Chandu-my-project/main/assset/technical-skills.gif" 
     alt="Typing with Skills GIF" 
     height="280" 
   />
