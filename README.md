@@ -3,7 +3,7 @@
     src="https://raw.githubusercontent.com/Chandu-my-project/Chandu-my-project/main/assset/girl%20wave%20img%202.0.png" 
     alt="Hello World Waving Image" 
     width="auto" 
-    height="240" 
+    height="200" 
   /><h1 style="margin: 0; padding: 0;">I'm Chandrika S 👋</h1>
 </div>
 
