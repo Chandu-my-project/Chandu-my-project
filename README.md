@@ -18,7 +18,7 @@ I channel that same energy into personal projects — building scalable applicat
 
 ---
 
-### 🛠️ Technology Stack & Skills
+<h3 align="center">🛠️ Technology Stack & Skills</h3>
 
 <div align="center">
   <img 
@@ -59,7 +59,7 @@ I channel that same energy into personal projects — building scalable applicat
 
 ---
 
-### 📊 GitHub Activity
+<h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chandu-my-project&label=Profile+Views&color=A0C4FF&style=flat-square" 
@@ -83,7 +83,7 @@ I channel that same energy into personal projects — building scalable applicat
   <a href="https://www.linkedin.com/in/chandrika-s" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  &nbsp;&nbsp;&nbsp;  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
