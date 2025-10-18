@@ -52,16 +52,17 @@ I channel that same energy into personal projects — building web applications 
 
 ---
 
-<div align="center">
+
+  <div align="center">
   <table style="width: 70%; text-align: left; margin: auto; border: none; border-collapse: collapse;" cellspacing="0" cellpadding="0">
     <tr>
-      <td>
+      <td style="border: none; padding: 0;">
         <h3 align="center">✨ My Quick Highlights</h3>
         <ul>
           <li>🔭 Currently focused on <strong>Backend development</strong> and eager to deep dive into <strong>AI/ML</strong>.</li>
-          <li>💪 Strength: Deep commitment to building projects with <strong>clean UI/UX and robust backend logic</strong>.</li>
+          <li>💪 Strength: Expert at combining <strong>clean UI/UX with robust backend logic</strong> to deliver reliable projects.</li>
           <li>💬 Ask me about <strong>Full stack development and System Stability</strong>.</li>
-          <li>📫 How to reach me: [krithzchandz2108@gmail.com](mailto:krithzchandz2108@gmail.com)</li>
+          <li>📫 How to reach me: <a href="mailto:krithzchandz2108@gmail.com">krithzchandz2108@gmail.com</a></li>
           <li>💼 Seeking: Full-stack development roles where I can leverage my 3 years of engineering experience.</li>
           <li>🎨 Personal Interests: I love <strong>3D modeling</strong> and <strong>digital art</strong> in Photoshop!</li>
         </ul>
@@ -69,6 +70,8 @@ I channel that same energy into personal projects — building web applications 
     </tr>
   </table>
 </div>
+       
+
 
 ---
 
@@ -76,15 +79,10 @@ I channel that same energy into personal projects — building web applications 
 
 <h3 align="center">📊 GitHub Activity</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chandu-my-project&label=Profile+Views&color=A0C4FF&style=flat-square" 
-       alt="Chandrika's Profile View Count"/>
-</p>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chandu-my-project&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=A0C4FF&icon_color=A0C4FF&bg_color=0D1B2A&text_color=FFFFFF&rank_icon=github" 
        alt="GitHub Stats" 
-       width="420"/>
+       width="420"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandu-my-project&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=A0C4FF&icon_color=A0C4FF&bg_color=0D1B2A&text_color=FFFFFF" 
        alt="Top Languages" 
        width="320"/>
